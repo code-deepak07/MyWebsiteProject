@@ -2,7 +2,7 @@
 Building College website as a part of annual computer science project.
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors]([https://img.shields.io/badge/all_contributors-5-orange.svg](https://goselfmade.com/)?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -203,7 +203,7 @@ We all need support and motivation. `TryShape` is not an exception. Please give 
 
 If you found the app helpful, consider supporting us with a coffee.
 
-<a href="https://www.buymeacoffee.com/greenroots">
+<a href="[https://www.buymeacoffee.com/greenroots](https://wwwdjdeepaklahan.wixsite.com/mysite)">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px">
 </a>
 
