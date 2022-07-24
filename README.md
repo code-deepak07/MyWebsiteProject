@@ -2,7 +2,7 @@
 Building College website as a part of annual computer science project.
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors]([https://img.shields.io/badge/all_contributors-5-orange.svg](https://goselfmade.com/)?style=flat-square)](#contributors-)
+[![All Contributors]([https://goselfmade.com/images/ograph.jpg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
